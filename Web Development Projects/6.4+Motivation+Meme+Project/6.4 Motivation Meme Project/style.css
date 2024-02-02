@@ -1,0 +1,27 @@
+*{
+    background-color: black;
+}
+
+.danerys-meme {
+    text-align: center;
+    margin-left: 25%;
+    width:50%;
+    margin-top: 20px;
+    border: 10px solid white
+    
+}
+
+.motivation-img {
+    width:100%    
+}
+
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    /* text-transform: capitalize; */
+    text-transform: uppercase;
+    color: white;
+}
+
+p{
+    color:white
+}
